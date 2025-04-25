@@ -40,7 +40,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <p><strong>Biodata:</strong></p>
         <p>Nama: Sucianti</p>
         <p>Jurusan: Sistem Informasi</p>
-        <p>Minat:</p>
+        <p>Minat: tergantung</p>
 
         <form method="POST" onsubmit="return validateForm()">
             <input type="text" name="nama" id="nama" placeholder="Masukkan Nama" value=""><br>
